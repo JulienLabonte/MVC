@@ -1,0 +1,10 @@
+#entete{
+    border: solid 1px;
+    border-radius: 10px;
+    background-color: pink;
+    display: flex;
+}
+#entete h1{
+    padding-left: 40vw;
+    text-align: center;
+}

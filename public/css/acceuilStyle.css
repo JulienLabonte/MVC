@@ -1,0 +1,25 @@
+.flex-container{
+    display: flex;
+}
+.flex-container div{
+    border: solid 1px;
+    border-radius: 10px;
+    height: 400px;
+}
+#menu{
+    width: 30vw;
+}
+#autreDiv{
+    width: 69.5vw;
+}
+#menu p{
+    display: block;
+    background-color: orange;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+#menu a{
+    text-decoration: none;
+    color: black;
+}
